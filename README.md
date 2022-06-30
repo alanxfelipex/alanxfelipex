@@ -12,6 +12,6 @@ Eu me chamo Alan Felipe, sou formado em jornalismo e estou estudando ciência de
 
 Eu me chamo Alan Felipe, sou formado em jornalismo e procuro emprego na área de dados
 
-- 🌱 Eu estou estudando Ciência de Dados 
+- 🌱 Estou estudando Ciência de Dados 
 - 📫 Você pode me encontrar em alanfelipe.aff@gmail.com | <a href="https://www.linkedin.com/in/alanxfelipe/"> LinkedIn </a>
 - ⚡ Fun Fact: Estou sempre ouvindo música
