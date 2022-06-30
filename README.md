@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **alanxfelipex/alanxfelipex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Eu me chamo Alan Felipe, sou formado em jornalismo e estou estudando ciência de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Eu estou estudando SQL, Python e Estatística
+- 📫 Você pode me encontrar em alanfelipe.aff@gmail.com | <a href="https://www.linkedin.com/in/alanxfelipe/"> LinkedIn </a>
+- ⚡ Fun Fact: Estou sempre ouvindo música
 -->
+
+Eu me chamo Alan Felipe, sou formado em jornalismo e procuro emprego na área de dados
+
+- 🌱 Eu estou estudando Ciência de Dados 
+- 📫 Você pode me encontrar em alanfelipe.aff@gmail.com | <a href="https://www.linkedin.com/in/alanxfelipe/"> LinkedIn </a>
+- ⚡ Fun Fact: Estou sempre ouvindo música
