@@ -8,10 +8,12 @@ Eu me chamo Alan Felipe, sou formado em jornalismo e migrei para a área de ciê
 - 🌱 Eu estou estudando SQL, Python e Estatística
 - 📫 Você pode me encontrar em alanfelipe.aff@gmail.com | <a href="https://www.linkedin.com/in/alanxfelipe/"> LinkedIn </a>
 - ⚡ Fun Fact: Estou sempre ouvindo música
--->
+--> 
 
-Eu me chamo Alan Felipe, sou formado em jornalismo e procuro emprego na área de dados
+Eu me chamo Alan Felipe, sou formado em jornalismo e migrei para a área de ciência de dados
 
 - 🌱 Estou estudando Ciência de Dados 
 - 📫 Você pode me encontrar em alanfelipe.aff@gmail.com | <a href="https://www.linkedin.com/in/alanxfelipe/"> LinkedIn </a>
+- 💻 Aqui você encontra projetos pessoais e estudos
+- 🌎 Atualmente estudando dados geoespaciais
 - ⚡ Fun Fact: Estou sempre ouvindo música
