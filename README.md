@@ -14,6 +14,6 @@ Eu me chamo Alan Felipe, sou formado em jornalismo e migrei para a área de ciê
 
 - 🌱 Estou estudando Ciência de Dados 
 - 📫 Você pode me encontrar em alanfelipe.aff@gmail.com | <a href="https://www.linkedin.com/in/alanxfelipe/"> LinkedIn </a>
-- 💻 Aqui você encontra projetos pessoais e estudos
+- 💻 Compartilho aqui e no <a href="https://medium.com/@conversandoemcodigos">Medium</a> projetos pessoais e aprendizados
 - 🌎 Atualmente estudando dados geoespaciais
 - ⚡ Fun Fact: Estou sempre ouvindo música
